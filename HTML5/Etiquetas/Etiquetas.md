@@ -10,7 +10,6 @@ En este apartado nos centraremos en el funcionamiento de dichas etiquetas, usos 
 
 ## Etiqueta target
 
-
 Con la etiqueta target podemos abrir paginas en otra pagina o en la misma pagina.
 
 ```
