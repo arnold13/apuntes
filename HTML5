@@ -1,0 +1,8 @@
+#Etiqueta target
+
+Con la etiqueta target podemos abrir paginas en otra pagina o en la misma pagina (o incluso en la padre)
+
+
+a href google.com  = abrira la pagina web en la misma pagina en la que estamos ahora mismo
+
+a href google.com | target= "_blank" = Abrira la pagina web en una pagina nueva.
