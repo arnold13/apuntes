@@ -1,3 +1,5 @@
+#Etiqueta target
+
 Con la etiqueta target podemos abrir paginas en otra pagina o en la misma pagina (o incluso en la padre)
 
 
