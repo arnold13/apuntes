@@ -4,7 +4,7 @@ En este apartado nos centraremos en el funcionamiento de dichas etiquetas, usos 
 
 ## Indice
 
-- [Etiqueta target](#Etiqueta&nbsp;target)
+- [Etiqueta target](#Etiqueta_target)
 
 
 ---
@@ -19,7 +19,7 @@ Nam placerat massa vitae luctus pellentesque. Vestibulum bibendum pretium imperd
 
 Proin nunc nisl, pulvinar in eleifend at, condimentum sed dolor. Vestibulum vehicula posuere risus, ac viverra neque pharetra tempus. Cras rutrum id nisi malesuada suscipit. Nulla vehicula quis magna eu commodo. Aliquam sit amet velit ac enim molestie aliquam in vel libero. Curabitur sit amet pretium quam. Sed vel purus et eros hendrerit varius sed id est. Nam eget blandit massa. Vestibulum vel nibh quis lacus placerat maximus eu placerat leo. Quisque ex est, malesuada vitae mattis ac, interdum a odio. Vivamus viverra vehicula lectus, ac aliquam arcu vehicula in. Maecenas tincidunt in ligula sit amet tincidunt.
 
-## Etiqueta target
+## Etiqueta_target
 
 
 Con la etiqueta target podemos abrir paginas en otra pagina o en la misma pagina (o incluso en la padre)
