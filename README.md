@@ -4,6 +4,6 @@ Repositorio para apuntes
 
 **Repositorio en construccion, los pocos apuntes subidos son solo de prueba*
 <br>
-<p align="center">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg">
-</p>
+</div>
