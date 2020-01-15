@@ -7,7 +7,7 @@
 - [Descripcion](##Descripcion)
 - [Ejemplo](##Ejemplo)
 - [Atributos](##Atributos)
-- [Notas](##Notas)
+- [Notas](##notas)
 
 
 
@@ -23,7 +23,7 @@ La etiqueta "a" ***adhiere a un caracter o conjunto de caracteres un hiperenlace
 
 ---
 
-## Notas 
+## notas 
 
 ### Titulo nota
 
