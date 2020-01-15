@@ -2,26 +2,32 @@
 
 En este apartado nos centraremos en el funcionamiento de dichas etiquetas, usos posibles y problemas que puedan ocurrir al usarlos.
 
-## Indice
+<!-- Orden 
 
-- [Etiqueta target](#Etiqueta-target)
+# Nombre_Etiqueta
 
 ---
 
-## Etiqueta target
+## Descripcion
 
-Con la etiqueta target podemos abrir paginas en otra pagina o en la misma pagina.
+## Ejemplo
 
-```
-<a href="google.com"></a>   
-```
+## Atributos
 
-abrira la pagina web en la misma pagina en la que estamos ahora mismo
+---
 
-```
-<a href="google.com" | target= "_blank">
-```
+## Notas 
 
-Abrira la pagina web en una pagina nueva.
+### Titulo nota
 
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+### Fecha nota    
+
+### Descripcion
+
+
+-->
+
+
+
+
+
