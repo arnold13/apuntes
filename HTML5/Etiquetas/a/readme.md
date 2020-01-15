@@ -4,10 +4,7 @@
 
 ## Indice
 
-- [Descripcion](##Descripcion)
-- [Ejemplo](##Ejemplo)
-- [Atributos](##Atributos)
-- [Notas](##Notas)
+- [Notas](#Notas)
 
 ---
 
@@ -60,7 +57,7 @@ Con la etiqueta target podemos definir donde se ejecutara el hiperenlace.
 
 ---
 
-## Notas 
+# Notas 
 
 <!-- Plantilla nota 
 
