@@ -4,11 +4,14 @@
 
 ## Indice
 
+- [Descripcion](#Descripcion)
+- [Ejemplo](#Ejemplo)
+- [Atributos](#Atributos)
 - [Notas](#Notas)
 
 ---
 
-## Descripcion
+# Descripcion
 
 La etiqueta &lt;a&gt; **adhiere a un caracter o conjunto de caracteres un hiperenlace** con el fin de redirigir al usuario a la pagina cuya direccion (URL) esta definida en su atributo href.
 
@@ -16,7 +19,7 @@ Por defecto, el enlace se abre en la misma pagina en la que se ejecuta.
 
 ---
 
-## Ejemplo
+# Ejemplo
 
 **Ejemplo de uso**
 
@@ -30,9 +33,9 @@ Por defecto, el enlace se abre en la misma pagina en la que se ejecuta.
 
 ---
 
-## Atributos
+# Atributos
 
-### target
+## target
 
 Con la etiqueta target podemos definir donde se ejecutara el hiperenlace.
 
@@ -61,10 +64,10 @@ Con la etiqueta target podemos definir donde se ejecutara el hiperenlace.
 
 <!-- Plantilla nota 
 
-### Titulo nota
+## Titulo nota
 
-### Fecha nota    
+## Fecha nota    
 
-### Descripcion
+## Descripcion
 
 -->
